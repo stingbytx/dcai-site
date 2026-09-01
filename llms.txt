@@ -1,0 +1,23 @@
+# dotcomAI
+
+> A unified AI platform that makes 400+ AI models and 50+ service providers accessible through one modern interface. Built in Sri Lanka 🇱🇰 by Manuja Damsara as a pilot project by DotcomOne & UniPOS.
+
+dotcomAI is a premium AI/technology platform offering free and paid AI services. It brings hundreds of AI models and dozens of providers together behind a single, modern interface so users and developers can build intelligent software, AI-powered products, and digital experiences for the next generation.
+
+## Features
+
+- 400+ AI models in one platform
+- 50+ service providers connected
+- Free and paid AI services
+- Unified, modern chat & model interface
+- AI-powered products and digital experiences
+
+## Platform
+
+- Web app: https://home.dotcomai.site
+- Official site: https://dotcomai.site
+- Contact: support@dotcomai.site
+
+## Ownership
+
+dotcomAI is a flagship platform created by DotcomOne, in partnership with UniPOS. Founder & developer: Manuja Damsara.
