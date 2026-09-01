@@ -1,0 +1,10 @@
+# robots.txt — dotcomAI
+# https://dotcomai.site/
+
+User-agent: *
+Allow: /
+
+# Block the custom 404 page from indexing
+Disallow: /404.html
+
+Sitemap: https://dotcomai.site/sitemap.xml
